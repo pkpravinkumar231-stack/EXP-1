@@ -44,7 +44,7 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- ![image alt]()
+
 
 
 b.  KCL:
