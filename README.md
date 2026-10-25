@@ -45,31 +45,37 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
-
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/KVL.png)
 
 b.  KCL:
- 
+ ![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/KCL.png)
 
 Calculation:
 
 a.   KVL:
  
-
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/kirchhoff's%20voltage%20law%20(KVL).jpeg)
 
 b.  KCL:
 
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/kirchhoff's%20current%20law%20(KCL)%201PAGE.jpeg)
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/kirchhoff's%20current%20law%20(KCL)%202PAGE.jpeg)
 
+OUTPUT
+a. KVL simulation output:
+![image alt]
 
+b. KCL simulation output:
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/KCL%20simulation%20output.png)
 
-Tabulation:
 
 a.   KVL:
  
-
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/kirchhoff's%20current%20law%20(KCL)%2011.jpeg)
 
 b.  KCL:
 
-
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/kirchhoff's%20current%20law%20(KCL)%2022.jpeg)  
 
 RESULT:
 
