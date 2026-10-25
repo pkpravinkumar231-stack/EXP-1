@@ -63,7 +63,7 @@ b.  KCL:
 
 OUTPUT
 a. KVL simulation output:
-![image alt]
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/66ac62c4cab0b0e199646c9c6c850cdc6b4b2668/KVL%20simulation%20output%20.png)
 
 b. KCL simulation output:
 ![image alt](https://github.com/pkpravinkumar231-stack/EXP-1/blob/c00ae790ae4467be934aae834c0816e420382be4/KCL%20simulation%20output.png)
